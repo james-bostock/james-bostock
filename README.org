@@ -4,4 +4,4 @@ I am an IT professional based in Melbourne, Australia.
 
 * Work
 
-I currently work at [[https://www.checkmarx.com][Checkmarx]] as a Professional Services Engineer.
+I currently work at [[https://www.checkmarx.com][Checkmarx]] as the Professional Services Lead for the APAC region.
